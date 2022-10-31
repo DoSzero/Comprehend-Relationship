@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Comprehend Relationship</string>
+    <string name="answer1">answer1</string>
+    <string name="answer2">answer2</string>
+    <string name="answer3">answer3</string>
+    <string name="answer4">answer4</string>
+    <string name="start">Начать</string>
+    <string name="performance">Выполнение</string>
+    <string name="yours_result">Ваш Результат</string>
+    <string name="restart">Повторить</string>
+</resources>
